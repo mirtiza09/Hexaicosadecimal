@@ -25,5 +25,3 @@ The development of this converter followed these key stages:
 2. **Basic Structure**: Establishing class attributes, constructors, and placeholder methods.
 3. **Conversion Algorithms**: Developing algorithms for natural, floating-point, and negative number conversions.
 4. **Enhancements and Testing**: Refining the code, handling edge cases, and extensive testing.
-
-## Example Usage
